@@ -2,136 +2,136 @@
   {
     "id": 1,
     "name": "aloe",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/aloe.png"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/aloe.png"
   },
   {
     "id": 2,
     "name": "basil",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/basil.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/basil.webp"
   },
   {
     "id": 3,
     "name": "bonsai",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/bonsai.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/bonsai.jpg"
   },
   {
     "id": 4,
     "name": "cactus",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/cactus.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/cactus.webp"
   },
   {
     "id": 5,
     "name": "calathea",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/calathea.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/calathea.jpg"
   },
   {
     "id": 6,
     "name": "cella",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/cella.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/cella.webp"
   },
   {
     "id": 7,
     "name": "default",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/default.png"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/default.png"
   },
   {
     "id": 8,
     "name": "erecapalm",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/erecapalm.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/erecapalm.jpg"
   },
   {
     "id": 9,
     "name": "fern",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/fern.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/fern.webp"
   },
   {
     "id": 10,
     "name": "fiddle leaf",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/fiddle_leaf.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/fiddle_leaf.jpg"
   },
   {
     "id": 11,
     "name": "kentia",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/kentia.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/kentia.webp"
   },
   {
     "id": 12,
     "name": "marblerose",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/marblerose.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/marblerose.webp"
   },
   {
     "id": 13,
     "name": "mint",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/mint.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/mint.jpg"
   },
   {
     "id": 14,
     "name": "money",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/money.png"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/money.png"
   },
   {
     "id": 15,
     "name": "monstera",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/monstera.png"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/monstera.png"
   },
   {
     "id": 16,
     "name": "orchid",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/orchid.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/orchid.jpg"
   },
   {
     "id": 17,
     "name": "peace lily",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/peace_lily.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/peace_lily.jpg"
   },
   {
     "id": 18,
     "name": "pothos",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/pothos.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/pothos.webp"
   },
   {
     "id": 19,
     "name": "purpleshamrock",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/purpleshamrock.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/purpleshamrock.webp"
   },
   {
     "id": 20,
     "name": "rosemary",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/rosemary.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/rosemary.webp"
   },
   {
     "id": 21,
     "name": "rubber",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/rubber.png"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/rubber.png"
   },
   {
     "id": 22,
     "name": "saplera",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/saplera.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/saplera.webp"
   },
   {
     "id": 23,
     "name": "snake",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/snake.png"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/snake.png"
   },
   {
     "id": 24,
     "name": "spider",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/spider.jpg"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/spider.jpg"
   },
   {
     "id": 25,
     "name": "succulent",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/succulent.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/succulent.webp"
   },
   {
     "id": 26,
     "name": "thyme",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/thyme.webp"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/thyme.webp"
   },
   {
     "id": 27,
     "name": "zz",
-    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/zz.png"
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/Plants/zz.png"
   }
 ]
