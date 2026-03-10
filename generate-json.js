@@ -1,9 +1,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const folder = "./plants";
-const username = "YOUR_USERNAME";
-const repo = "plant-images";
+const folder = "./Plants";
+const username = "GoldrenAuraindia";
+const repo = "Planto-images";
 
 const files = fs.readdirSync(folder);
 
