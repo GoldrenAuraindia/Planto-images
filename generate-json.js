@@ -17,7 +17,7 @@ const plants = files.map((file, index) => {
   return {
     id: index + 1,
     name: name,
-    image: `https://cdn.jsdelivr.net/gh/${username}/${repo}/plants/${file}`
+    image: `https://cdn.jsdelivr.net/gh/${username}/${repo}/Plants/${file}`
   };
 });
 
