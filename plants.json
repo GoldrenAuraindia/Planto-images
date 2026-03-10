@@ -106,26 +106,31 @@
   },
   {
     "id": 22,
+    "name": "saplera",
+    "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/saplera.webp"
+  },
+  {
+    "id": 23,
     "name": "snake",
     "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/snake.png"
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "spider",
     "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/spider.jpg"
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "succulent",
     "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/succulent.webp"
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "thyme",
     "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/thyme.webp"
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "zz",
     "image": "https://cdn.jsdelivr.net/gh/GoldrenAuraindia/Planto-images/plants/zz.png"
   }
